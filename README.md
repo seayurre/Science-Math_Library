@@ -1,5 +1,5 @@
 Science-Math_Library
-====================
-My own storage of Science&amp;Mathematics knowledge
----------------------------------------------------
-[Life Science 50 questions](https://seayurre.github.io/Science-Math_Library/LS-50.html "Life Science 50 questions")
+====================================================================================
+수학/과학 지식을 꼼꼼하게 알아
+------------------------------------------------------------------------------------------------------------------------------------------
+[생명과학](https://seayurre.github.io/Science-Math_Library/LifeScience_home.html "생명과학")
