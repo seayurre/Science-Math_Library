@@ -8,3 +8,5 @@
 	a:active{color:beige;font-family: 'Nanum Gothic', sans-serif;font-size:20pt;}
 </style>
 <a href="https://seayurre.github.io/Science-Math_Library/LifeScience_home.html">1. 생명과학</a>
+<br>
+<a href="https://seayurre.github.io/Science-Math_Library/EarthScience_home.html">2. 지구과학</a>
